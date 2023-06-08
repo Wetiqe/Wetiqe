@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, guys! <img src="https://github.com/Wetiqe/Wetiqe/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
+<!--     <i>
         I'm Ni.<br>
         Currently learning to walk in ML/DL and neuroimaging without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
+    </i><br> -->
 <!--     <a href="https://www.linkedin.com/in/Wetiqe">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
