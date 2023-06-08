@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Wetiqe)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Wetiqe)
-[![R](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Wetiqe)
-[![MATLAB](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Wetiqe)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/Wetiqe)
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=MATLAB)](https://github.com/Wetiqe)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Wetiqe)
