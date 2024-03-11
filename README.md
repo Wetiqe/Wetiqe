@@ -55,7 +55,5 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/Wetiqe)
  -->
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Wetiqe)
 [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora)](https://github.com/Wetiqe)
 [![RedHatEnt](https://img.shields.io/badge/RedHatEnt-black?style=for-the-badge&logo=RedHat)](https://github.com/Wetiqe)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Wetiqe)
