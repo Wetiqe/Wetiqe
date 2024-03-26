@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 
 ### Neuroimaging
 [![NiLearn](https://img.shields.io/badge/nilearn-black?style=for-the-badge&logo=nilearn)](https://github.com/Wetiqe)
+[![ANTsPy](https://img.shields.io/badge/nilearn-black?style=for-the-badge&logo=antspy)](https://github.com/Wetiqe)
+[![FSL](https://img.shields.io/badge/nilearn-black?style=for-the-badge&logo=fsl)](https://github.com/Wetiqe)
+[![MNE-Python](https://img.shields.io/badge/nilearn-black?style=for-the-badge&logo=mne)](https://github.com/Wetiqe)
+[![Neurokit2](https://img.shields.io/badge/nilearn-black?style=for-the-badge&logo=neurokit2)](https://github.com/Wetiqe)
 
 <!-- ### Technologies & Frameworks -->
 <!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Wetiqe)
